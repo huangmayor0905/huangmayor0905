@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi guys 👋
 
-<!--
-**huangmayor0905/huangmayor0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is a high school student in Taiwan
 
-Here are some ideas to get you started:
+### I want to get better by writing more and more programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hei! I also like to play guitar. Music sets me free! HAHA
+
+### If you want to contact me. The list below can help you.
+
+| Social Media | URL                                      |
+|:------------ |:---------------------------------------- |
+| Facebook     | https://www.facebook.com/kuoyu.huang.50/ |
+| Instagram    | https://www.instagram.com/kuo_oao/       |
+| Github Blog  | https://huangmayor0905.github.io/        |
+| Twitter      | https://twitter.com/kuokuomayor          |
