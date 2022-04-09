@@ -4,7 +4,7 @@
 
 ### I want to get better by writing more and more programs.
 
-### Hei! I also like to play guitar. Music sets me free! HAHA
+### Hei! I also like to play guitar🎸. Music🎵 sets me free! HAHA
 
 ### If you want to contact me. The list below can help you.
 
