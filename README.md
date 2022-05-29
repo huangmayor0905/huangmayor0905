@@ -15,4 +15,4 @@
 | Github Blog  | https://huangmayor0905.github.io/        |
 | Twitter      | https://twitter.com/kuokuomayor          |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangmayor0905&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangmayor0905&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
