@@ -15,5 +15,5 @@
 | Github Blog  | https://huangmayor0905.github.io/        |
 | Twitter      | https://twitter.com/kuokuomayor          |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangmayor0905&show_icons=true&bg_color=30,#a8edea,#fed6e3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangmayor0905&show_icons=true&bg_color=30,a8edea,fed6e3)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
