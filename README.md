@@ -17,3 +17,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangmayor0905&show_icons=true&bg_color=30,a8edea,fed6e3&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huangmayor0905&theme=github-dark-blue&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
