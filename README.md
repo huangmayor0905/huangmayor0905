@@ -14,3 +14,5 @@
 | Instagram    | https://www.instagram.com/kuo_oao/       |
 | Github Blog  | https://huangmayor0905.github.io/        |
 | Twitter      | https://twitter.com/kuokuomayor          |
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangmayor0905)](https://github.com/anuraghazra/github-readme-stats)
