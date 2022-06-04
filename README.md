@@ -15,8 +15,27 @@
 | Github Blog  | https://huangmayor0905.github.io/        |
 | Twitter      | https://twitter.com/kuokuomayor          |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangmayor0905&show_icons=true&bg_color=30,a8edea,fed6e3&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">huangmayor0905's Github Data Visualization</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&langs_count=8&theme=react"/>
+  </a>
+  </a>&emsp;</a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="huangmayor0905's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=huangmayor0905&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huangmayor0905&theme=github-dark-blue&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=huangmayor0905&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
