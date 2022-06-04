@@ -18,7 +18,7 @@
 <h1 align="center">huangmayor0905's Github Data Visualization</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&hide=html,css,js&langs_count=8&theme=react"/>
+    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&hide=html,css,ja&langs_count=8&theme=react"/>
   </a>
   </a>&emsp;</a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
