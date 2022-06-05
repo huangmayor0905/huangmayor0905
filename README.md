@@ -25,7 +25,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="huangmayor0905's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=huangmayor0905&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<!-- ![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=huangmayor0905&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 © 2022 GitHub, Inc.
 Terms
