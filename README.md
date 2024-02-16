@@ -26,8 +26,8 @@
 </p>
 
 <!-- ![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=huangmayor0905&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-© 2022 GitHub, Inc.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huangmayor0905&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+© 2024 GitHub, Inc.
 Terms
 Privacy
 Security
