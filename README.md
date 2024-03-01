@@ -1,12 +1,8 @@
-### Hi guys 👋
+# `> whoami`
 
-### This is a high school student in Taiwan
+- 一個來自北臺灣的高三生，正在學習關於網頁領域等相關知識。
 
-### I want to get better by writing more and more programs.
-
-### Hei! I also like to play guitar🎸. Music🎵 sets me free! HAHA
-
-### If you want to contact me. The list below can help you.
+  I'm a senior high school student from northern Taiwan, learning about the web field and other related knowledge.
 
 | Social Media | URL                                      |
 |:------------ |:---------------------------------------- |
