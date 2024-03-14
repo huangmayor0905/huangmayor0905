@@ -1,8 +1,17 @@
-# `> whoami`
+# `> Who am I`
 
 - 一個來自北臺灣的高三生，正在學習關於網頁領域等相關知識。
 
   I'm a senior high school student from northern Taiwan, learning about the web field and other related knowledge.
+
+
+# `> What am I learning about`
+
+- 目前學習 C/C++ 和 Python 程式語言，以及準備深入網頁相關知識。
+
+  Currently learning C/C++ and Python programming languages, and preparing to gain in-depth web related knowledge.
+
+# `> How to contact me`
 
 | Social Media | URL                                      |
 |:------------ |:---------------------------------------- |
