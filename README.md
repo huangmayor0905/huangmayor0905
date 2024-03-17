@@ -13,7 +13,7 @@
 
   Currently learning C/C++ and Python programming languages, and preparing to gain in-depth web related knowledge.
 
-# `> How to contact me`
+# `> Reach out to me`
 
 - Blog: https://huangmayor0905.github.io/
 - Twitter: https://twitter.com/kuokuomayor
@@ -26,8 +26,7 @@
     <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&hide=html,css,javascript&langs_count=8&theme=react"/>
   </a>
   </a>&emsp;</a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="huangmayor0905's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=huangmayor0905&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=huangmayor0905&theme=transparent&mode=weekly&card_width=500&background=282C34&border=EBEBEB&stroke=EBEBEB&ring=00E7FF&fire=00E7FF&currStreakNum=00E7FF&sideNums=00E7FF&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=75AFEB" alt="GitHub Streak" /></a>
 </p>
 
 <!-- ![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
