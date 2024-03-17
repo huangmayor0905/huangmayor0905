@@ -1,3 +1,5 @@
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.1.0/uicons-brands/css/uicons-brands.css'>
+
 # `> Who am I`
 
 - 一個來自北臺灣的高三生，正在學習關於網頁領域等相關知識。
@@ -13,12 +15,10 @@
 
 # `> How to contact me`
 
-| Social Media | URL                                      |
-|:------------ |:---------------------------------------- |
-| Facebook     | https://www.facebook.com/kuoyu.huang.50/ |
-| Instagram    | https://www.instagram.com/kuo_oao/       |
-| Github Blog  | https://huangmayor0905.github.io/        |
-| Twitter      | https://twitter.com/kuokuomayor          |
+- Blog: https://huangmayor0905.github.io/
+- Twitter: https://twitter.com/kuokuomayor
+- Facebook: https://www.facebook.com/kuoyu.huang.50/
+- Instagram: https://www.instagram.com/kuo_oao/
 
 <h1 align="center">huangmayor0905's Github Data Visualization</h1>
 <p align="center">
@@ -32,15 +32,4 @@
 
 <!-- ![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huangmayor0905&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-© 2024 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+© 2024 GitHub, Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About
