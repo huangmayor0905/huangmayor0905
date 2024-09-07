@@ -2,9 +2,9 @@
 
 # `> Who am I`
 
-- 一個東海大學大一新生，正在學習關於網頁領域等相關知識。
+- 一個大一新生，正在學習關於網頁領域等相關知識。
 
-  I'm a fresh man at Tunghai University, learning about the web field and other related knowledge.
+  I'm a fresh man, learning about the web field and other related knowledge.
 
 # `> What am I learning about`
 
