@@ -15,9 +15,7 @@
 # `> Reach out to me`
 
 - Blog: https://huangmayor0905.github.io/
-- Twitter: https://twitter.com/kuokuomayor
-- Facebook: https://www.facebook.com/kuoyu.huang.50/
-- Instagram: https://www.instagram.com/kuo_oao/
+- Twitter: https://twitter.com/kuokuomayor/
 
 <h1 align="center">huangmayor0905's Github Data Visualization</h1>
 <p align="center">
