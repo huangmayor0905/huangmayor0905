@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=huangmayor0905)
+
+<img src="https://komarev.com/ghpvc/?username=huangmayor0905&label=Profile%20views&color=EB5800&style=for-the-badge" alt="huangmayor0905" />
 
 # `> Who am I`
 
@@ -17,13 +18,24 @@
 - Blog: https://huangmayor0905.github.io/
 - Twitter: https://twitter.com/kuokuomayor/
 
-<h1 align="center">huangmayor0905's Github Data Visualization</h1>
+<h2 align="center">GitHub Trophies</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=huangmayor0905&theme=onedark)
+
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&hide=html,css,javascript&langs_count=8&theme=react"/>
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&locale=zh-tw&layout=donut&hide=javascript,html,css&bg_color=282C34&text_color=FFFFFF&title_color=FFA508&border_color=7F7F7F"/>
   </a>
-  </a>&emsp;</a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=huangmayor0905&theme=transparent&mode=weekly&card_width=500&background=282C34&border=EBEBEB&stroke=EBEBEB&ring=00E7FF&fire=00E7FF&currStreakNum=00E7FF&sideNums=00E7FF&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=75AFEB" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=huangmayor0905&show_icons=true&theme=nord&title_color=FFA508&icon_color=1d9bf0&bg_color=282C34&border_color=7F7F7F&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://streak-stats.demolab.com?user=huangmayor0905&theme=dark&locale=zh_Hant&background=282C34&border=7F7F7F&stroke=7F7F7F&ring=FFA508&fire=EB5800&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEBCE&sideLabels=EBEBEBCE&dates=989898" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <!-- ![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
