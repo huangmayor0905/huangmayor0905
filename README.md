@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&locale=zh-tw&layout=donut&hide=javascript,html,css&bg_color=282C34&text_color=FFFFFF&title_color=FFA508&border_color=7F7F7F"/>
+    <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangmayor0905&locale=zh-tw&layout=donut&hide=javascript,html,css&bg_color=282C34&text_color=FFFFFF&title_color=FFA508&border_color=7F7F7F"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=huangmayor0905&show_icons=true&theme=nord&title_color=FFA508&icon_color=1d9bf0&bg_color=282C34&border_color=7F7F7F&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
+    <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=huangmayor0905&show_icons=true&theme=nord&title_color=FFA508&icon_color=1d9bf0&bg_color=282C34&border_color=7F7F7F&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
   </a>
 </p>
 <p align="center">
@@ -39,5 +39,5 @@
 </p>
 
 <!-- ![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huangmayor0905&theme=react&line=EB5800&point=FFA508&title_color=FFA508)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huangmayor0905&theme=react&line=EB5800&point=FFA508)](https://github.com/ashutosh00710/github-readme-activity-graph)
 © 2024 GitHub, Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About
