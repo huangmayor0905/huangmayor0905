@@ -12,11 +12,6 @@
 
   Currently learning C/C++ and Python programming languages, and preparing to gain in-depth web related knowledge.
 
-# `> Reach out to me`
-
-- Blog: https://huangmayor0905.github.io/
-- Twitter: https://twitter.com/kuokuomayor/
-
 <h2 align="center">GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=huangmayor0905&theme=onedark)
