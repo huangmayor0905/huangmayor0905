@@ -34,4 +34,3 @@
 
 <!-- ![snake gif](https://github.com/huangmayor0905/huangmayor0905/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huangmayor0905&theme=react&line=EB5800&point=FFA508&area=true&area_color=ffa508aa)](https://github.com/ashutosh00710/github-readme-activity-graph)
-© 2024 GitHub, Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About
